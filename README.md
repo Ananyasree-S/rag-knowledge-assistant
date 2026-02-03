@@ -15,7 +15,6 @@ user queries using custom documents instead of relying solely on LLM memory.
 - FastAPI
 - FAISS
 - OpenAI / HuggingFace embeddings
-- LangChain (optional)
 
 ## Architecture
 1. Documents are chunked and embedded
