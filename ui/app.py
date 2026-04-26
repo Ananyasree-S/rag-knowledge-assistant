@@ -34,7 +34,7 @@ st.header("💬 Ask a Question")
 
 question = st.text_input(
     "Enter your question",
-    placeholder="What is the role of Associate Solution Support Engineer?"
+    placeholder="Can birds sing?"
 )
 
 if st.button("Ask"):
